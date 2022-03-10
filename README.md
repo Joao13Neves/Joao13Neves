@@ -1,4 +1,4 @@
-### Olá, me chamo Joaão Neves e Seja Bem-vindo!!!
+### Olá, me chamo João Neves e Seja Bem-vindo!!!
 
 - 🔭 Trabalho como Suporte de TI
 - 🌱 Estou estudando Desenvolvimento Web
