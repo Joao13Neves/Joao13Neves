@@ -1,6 +1,6 @@
 ### Olá, me chamo João Neves e Seja Bem-vindo!!!
 
-- 🔭 Trabalho como Suporte de TI
+- 🔭 Analista de Sistemas N2
 - 🌱 Estou estudando Desenvolvimento Web
 - 💬 Sou um amante da tecnologia e admirador dos resultados dela em nossas vidas
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
