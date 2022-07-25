@@ -1,4 +1,4 @@
-###                                                     Olá, me chamo João Neves e Seja Bem-vindo!!!
+##################################################### Olá, me chamo João Neves e Seja Bem-vindo!!!
 
   Graduando em Análise e Desenvolvimento de Sistemas e atuando como Analista de Sistemas Nível II. Minha maior satisfação é contribuir na resolução de problemas, buscando a melhor experiência possível do usuário, atribuindo as melhores práticas de atendimento e resolução de incidentes. Meu objetivo é crescer profissionalmente na área da tecnologia, desenvolvendo habilidades, superando desafios, com uma boa comunicação, proatividade, relação interpessoal e carisma, disponho em contribuir para os demais que se interessar no meu perfil. Atualmente, meus estudos estão baseados em muita força de vontade, comunidades de estudos e apurado em conteúdos fornecido pelo universo da Internet.
 
