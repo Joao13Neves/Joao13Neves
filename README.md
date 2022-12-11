@@ -15,8 +15,8 @@ Tenho experiência com: Windows Server, Linux e Redes de Computadores.
     <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
    <img align="center" height="30" width="40" src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"/>
  </div>
-##
-<!--   <img src="https://github.com/Joao13Neves/Joao13Neves/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"> -->
+
+  ##
     
 <div>
    <a href="https://www.linkedin.com/in/joao-paulo-batista-das-neves-melo-17b145210/" target="_blank"><img src="https://img.shields.io/badge/-João Neves-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
