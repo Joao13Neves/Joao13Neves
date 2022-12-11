@@ -17,7 +17,6 @@ Tenho experiência com: Windows Server, Linux e Redes de Computadores.
  </div>
 ##
 <!--   <img src="https://github.com/Joao13Neves/Joao13Neves/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"> -->
-##
     
 <div>
    <a href="https://www.linkedin.com/in/joao-paulo-batista-das-neves-melo-17b145210/" target="_blank"><img src="https://img.shields.io/badge/-João Neves-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
