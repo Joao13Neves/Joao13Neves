@@ -12,20 +12,38 @@ Tenho experiência com: Windows Server, Linux e Redes de Computadores.
  </div>
   
   ##
+
+  ### Desenvolvimento
   
  <div style="display: inline_block"><br>
     <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>          
    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"/>
-   <img align="center" alt="Joao-Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-   <img align="center" alt="Joao-Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-   <img align="center" alt="Joao-Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
  </div>
 
   ##
-    
-<div>
+
+  ### Gestão
+
+  <div style="display: inline_block">
+   <img align="center" alt="Joao-Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+   <img align="center" alt="Joao-Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  </div>
+
+  ##
+
+  ### Design
+
+  <div style="display: inline_block">
+    <img align="center" alt="Joao-Figma" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  </div>
+
+  ##
+
+<div><br>
    <a href="https://www.linkedin.com/in/joao-neves-melo/" target="_blank"><img src="https://img.shields.io/badge/-João Neves-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.instagram.com/joao_nevesbjj/" target="_blank"><img src="https://img.shields.io/badge/https_joaoneves-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a><img src="https://img.shields.io/badge/joaobatista.tec2019-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+  ##
