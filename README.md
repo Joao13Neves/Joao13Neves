@@ -7,8 +7,8 @@ Tenho experiência com: Windows Server, Linux e Redes de Computadores.
 
 <div align="center">
   <a href="https://github.com/Joao13Neves">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Joao13Neves&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao13Neves&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Joao13Neves&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao13Neves&layout=compact&langs_count=7&theme=cobalt"/>
  </div>
   
   ##
