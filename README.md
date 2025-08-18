@@ -13,8 +13,7 @@ Tenho experiência com: Windows Server, Linux e Redes de Computadores.
   
   ##
 
-  ### Desenvolvimento
-  #### Tecnologias:
+  ### Tecnologias
   
  <div style="display: inline_block; gap: 20px"><br>
     <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
