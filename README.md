@@ -1,5 +1,11 @@
 ### Olá, me chamo João Neves e Seja Bem-vindo ao meu perfil!!!
 
+<div align="center">
+  <picture>
+    <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzE5OTIwNTMsIm5iZiI6MTc3MTk5MTc1MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjI1VDAzNTU1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyMTVhNmQ2NjFjNWI3N2E1Y2ZmNWMzNzI2ZjUwZjMwM2RhNzgwM2U2Y2VjNmQ0ZjYwNGQ4YTlmZTk2ZTFhYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wL2K9IjLiZ3xeg7HeIA20bRaAHFtRRxygROuAW_uF1g">
+  </picture>
+</div>
+
   Graduando em Análise e Desenvolvimento de Sistemas e atuando como Desenvolvedor Frontend. Minha maior satisfação é contribuir na resolução de problemas, buscando a melhor experiência possível do usuário, atribuindo as melhores práticas de desenvolvimento e solução em softwares. Meu objetivo é crescer profissionalmente na área da tecnologia, desenvolvendo habilidades, superando desafios, com uma boa comunicação, proatividade, relação interpessoal e entregando valor. Disponho em contribuir para os demais que se interessar no meu perfil. Atualmente, meus estudos estão baseados em muita força de vontade, comunidades de estudos e apurado em conteúdos fornecido pelo universo da Internet.
 
 Atualmente, aprimorando meus conhecimentos em Angular.
