@@ -5,11 +5,15 @@
 
   ### Stacks 💡
 
+  ##
+
   <div align="start"><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,tailwind,wordpress,linux,azure" />
   </div>
 
-  ### Contato
+  ### Contato 📲
+
+  ##
 
   <div><br>
    <a href="https://www.linkedin.com/in/joao-neves-melo/" target="_blank"><img src="https://img.shields.io/badge/-João Neves-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
